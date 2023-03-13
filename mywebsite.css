@@ -1,0 +1,25 @@
+body {
+    background-color: #B5F1CC;
+}
+
+nav .menu a[href="#"] {
+    color: black;
+}
+
+div.menu ul a li:hover, a div li:hover {
+    background-color:darkseagreen;
+    color:darkgreen;
+}
+li button.search {
+    background-color: #14DCB4;
+    color: #dc143c;
+    font-weight: bold;
+    border-style: none;
+    border-radius: .25rem;
+}
+hr {
+    border-style: dotted none none;
+    border-width: 7px;
+    width: 10%;
+    border-color: #E5FDD1;
+}
